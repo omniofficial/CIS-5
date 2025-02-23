@@ -1,0 +1,4 @@
+﻿  Diaz_Adrian_FINALPROJECT.cpp
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a40 FINAL PROJECT\Diaz_Adrian_FINALPROJECT.cpp(45,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a40 FINAL PROJECT\Diaz_Adrian_FINALPROJECT.cpp(292,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Project a40 FINAL PROJECT.vcxproj -> C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\x64\Debug\Project a40 FINAL PROJECT.exe

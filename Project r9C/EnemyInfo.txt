@@ -1,0 +1,15 @@
+Mother
+5
+100
+Father
+10
+200
+Sister
+20
+400
+Brother
+40
+800
+God
+1000
+2000

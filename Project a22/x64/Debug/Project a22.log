@@ -1,0 +1,5 @@
+﻿  Diaz_Adrian_Program9A.cpp
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a22\Diaz_Adrian_Program9A.cpp(23,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a22\Diaz_Adrian_Program9A.cpp(77): warning C4715: 'flipCoin': not all control paths return a value
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a22\Diaz_Adrian_Program9A.cpp(97): warning C4715: 'winOrLose': not all control paths return a value
+  Project a22.vcxproj -> C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\x64\Debug\Project a22.exe

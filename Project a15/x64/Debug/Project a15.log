@@ -1,0 +1,4 @@
+﻿  Diaz_Adrian_Program6D.cpp
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a15\Diaz_Adrian_Program6D.cpp(19,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\Project a15\Diaz_Adrian_Program6D.cpp(16,6): warning C4101: 'attempts': unreferenced local variable
+  Project a15.vcxproj -> C:\Users\Adrian Diaz.DESKTOP-71DU7NM\source\repos\CIS-5 NORCO COLLEGE\x64\Debug\Project a15.exe
